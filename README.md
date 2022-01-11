@@ -2,7 +2,7 @@
 - 👀 I’m interested in embedded systems and coding.
 - 🌱 I’m currently learning Zephyr RTOS.
 - 💞️ I’m looking to collaborate on making Zephyr RTOS better and more usefull.
-- 📫 Reach me at mgpooja.mg9@gmail.com
+
 
 <!---
 poojamg/poojamg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
